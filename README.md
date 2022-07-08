@@ -6,8 +6,8 @@ An intermediate Java developer trying to document his journey learning C++.
  - To create a reference point for future C++ lessons.
 
 ## What this entails
-I shall be using programming hubs android app to allow me learn C++ on my phone covering the basics quicker. In addition,
-I'll use various trusted websites such as TutorialsPoint, GeeksForGeeks and others to document my code.
+I shall be using programming hubs android app to learn C++ on my phone covering the basics quicker. In addition,
+I'll use various trusted sources such as TutorialsPoint, GeeksForGeeks among other websites to document my code.
 
 ## How to use this
 1. Use repository to learn basics of CPP

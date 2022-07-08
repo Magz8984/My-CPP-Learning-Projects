@@ -14,8 +14,8 @@ I'll use various trusted sources such as TutorialsPoint, GeeksForGeeks among oth
 2. Fork this repository and submit a PR about to a topic on C++
 3. As a reference point for CPP related questions or projects
 
-## How Its Structured
-After each lesson I shall compile all code files in a folder that is given a distinct title
+## How It's Structured
+After each lesson I shall compile all code files in a folder that is given a distinct topic as seen below
 
 ## File Structure
 

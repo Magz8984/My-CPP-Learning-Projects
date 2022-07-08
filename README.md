@@ -23,6 +23,7 @@ After each lesson I shall compile all code files in a folder that is given a dis
 -----|------|
 Hello World / Introduction | [helloworld/helloworld.cpp](helloworld/helloworld.cpp) |
 Data Types / GameScore | [datatypes/gamescore.cpp](datatypes/gamescore.cpp) |
+Data Types / Booleans | [datatypes/booleans.cpp](datatypes/booleans.cpp) |
 
 ## License
 

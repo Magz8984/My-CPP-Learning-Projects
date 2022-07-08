@@ -22,6 +22,7 @@ After each lesson I shall compile all code files in a folder that is given a dis
 **Topic** | **Link** |
 -----|------|
 Hello World / Introduction | [helloworld/helloworld.cpp](helloworld/helloworld.cpp) |
+Data Types / GameScore | [datatypes/gamescore.cpp](datatypes/gamescore.cpp) |
 
 ## License
 

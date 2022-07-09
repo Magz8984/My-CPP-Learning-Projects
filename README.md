@@ -24,6 +24,7 @@ After each lesson I shall compile all code files in a folder that is given a dis
 Hello World / Introduction | [helloworld/helloworld.cpp](helloworld/helloworld.cpp) |
 Data Types / GameScore | [datatypes/gamescore.cpp](datatypes/gamescore.cpp) |
 Data Types / Booleans | [datatypes/booleans.cpp](datatypes/booleans.cpp) |
+Recursion / Print Hello World 10 times | [recursion/print_helloworld_ten_times.cpp](recursion/print_helloworld_ten_times.cpp) |
 
 ## License
 

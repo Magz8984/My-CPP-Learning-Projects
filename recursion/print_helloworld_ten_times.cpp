@@ -18,7 +18,6 @@ void printHelloWorldReverse(int length, int time) {
      printHelloWorldReverse(length, ++time);
      cout << (time) << " Hello World\n";
     }
-    
 }
 
 

@@ -6,8 +6,7 @@ An intermediate Java developer trying to document his journey learning C++.
  - To create a reference point for future C++ lessons.
 
 ## What this entails
-I shall be using oriely's practical programming 
-I'll use various trusted sources such as TutorialsPoint, GeeksForGeeks among other websites to document my code.
+I shall be using oriely's practical programming and various trusted sources such as TutorialsPoint, GeeksForGeeks among other websites to document my code.
 
 ## How to use this
 1. Use repository to learn basics of CPP

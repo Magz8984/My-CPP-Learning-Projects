@@ -6,7 +6,7 @@ An intermediate Java developer trying to document his journey learning C++.
  - To create a reference point for future C++ lessons.
 
 ## What this entails
-I shall be using programming hubs android app to learn C++ on my phone covering the basics quicker. In addition,
+I shall be using oriely's practical programming 
 I'll use various trusted sources such as TutorialsPoint, GeeksForGeeks among other websites to document my code.
 
 ## How to use this
@@ -25,6 +25,7 @@ Hello World / Introduction | [helloworld/helloworld.cpp](helloworld/helloworld.c
 Data Types / GameScore | [datatypes/gamescore.cpp](datatypes/gamescore.cpp) |
 Data Types / Booleans | [datatypes/booleans.cpp](datatypes/booleans.cpp) |
 Understanding Scopes | [scopes/understanding_scopes.cpp](scopes/understanding_scopes.cpp) |
+Strings / string.h functions | [strings/string_functions.cpp](strings/string_functions.cpp) |
 Recursion / Print Hello World 10 times | [recursion/print_helloworld_ten_times.cpp](recursion/print_helloworld_ten_times.cpp) |
 
 ## License

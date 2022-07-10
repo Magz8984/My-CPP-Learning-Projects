@@ -13,7 +13,7 @@ int main () {
     
     cout << name << "\n";
 
-    // Compare two strings and return true if is equal
+    // Compare two strings and return 0 if equal
     int isEqual = strcmp(name, "Collins");
 
     cout << "Is equal\t" << isEqual << "\n";

@@ -26,6 +26,7 @@ Data Types / Booleans | [datatypes/booleans.cpp](datatypes/booleans.cpp) |
 Understanding Scopes | [scopes/understanding_scopes.cpp](scopes/understanding_scopes.cpp) |
 **Strings / string.h functions** | [strings/string_functions.cpp](strings/string_functions.cpp) |
 **I/O / Area of circle** | [i_o/areaofcircle.cpp](i_o/areaofcircle.cpp) |
+Sorting / Bubble Sort | [loops/sort_array.cpp](loops/sort_array.cpp) |
 Recursion / Print Hello World 10 times | [recursion/print_helloworld_ten_times.cpp](recursion/print_helloworld_ten_times.cpp) |
 
 ## License

@@ -23,10 +23,11 @@ After each lesson I shall compile all code files in a folder that is given a dis
 Hello World / Introduction | [helloworld/helloworld.cpp](helloworld/helloworld.cpp) |
 Data Types / GameScore | [datatypes/gamescore.cpp](datatypes/gamescore.cpp) |
 Data Types / Booleans | [datatypes/booleans.cpp](datatypes/booleans.cpp) |
+Multiplication Table (Multidimensional Array) | [datatypes/multidimensional_array.cpp](datatypes/multidimensional_array.cpp) |
 Understanding Scopes | [scopes/understanding_scopes.cpp](scopes/understanding_scopes.cpp) |
 **Strings / string.h functions** | [strings/string_functions.cpp](strings/string_functions.cpp) |
 **I/O / Area of circle** | [i_o/areaofcircle.cpp](i_o/areaofcircle.cpp) |
-I/0 / Reading Strings | [i_o/reading_strings.cpp](i_o/reading_strings.cpp) |
+I/O / Reading Strings | [i_o/reading_strings.cpp](i_o/reading_strings.cpp) |
 Sorting / Bubble Sort | [loops/sort_array.cpp](loops/sort_array.cpp) |
 Recursion / Print Hello World 10 times | [recursion/print_helloworld_ten_times.cpp](recursion/print_helloworld_ten_times.cpp) |
 Recursion / Tower of Hanoi | [recursion/tower_of_hanoi.cpp](recursion/tower_of_hanoi.cpp) |

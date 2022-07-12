@@ -4,6 +4,10 @@
 
 using namespace std;
 
+/**
+ * O(n) implementation
+ * 
+ */
 string FirstReverse(string str) {
   char char_array[str.length() + 1]; 
 
@@ -13,11 +17,14 @@ string FirstReverse(string str) {
 
   strcpy(char_array, str.c_str());
 
+
   for(int i = 0; i <  strlen(char_array); i++) {
      int f = strlen(char_array) - i;
 
+    // If the next iteration of index f overlaps i then break
      if(f - 1 < i) break;
 
+     // If not asign the index value to the mirror index value
      char temp = char_array[i];
      // swap values
      char_array[i] = char_array[f - 1];

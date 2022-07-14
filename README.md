@@ -30,6 +30,7 @@ Understanding Scopes | [scopes/understanding_scopes.cpp](scopes/understanding_sc
 I/O / Reading Strings | [i_o/reading_strings.cpp](i_o/reading_strings.cpp) |
 Sorting / Bubble Sort | [loops/sort_array.cpp](loops/sort_array.cpp) |
 Reverse String | [loops/reverse_string.cpp](loops/reverse_string.cpp) |
+Print Checker Board | [loops/checkerboard.cpp](loops/checkerboard.cpp) |
 Recursion / Print Hello World 10 times | [recursion/print_helloworld_ten_times.cpp](recursion/print_helloworld_ten_times.cpp) |
 Recursion / Factorial | [recursion/factorial.cpp](recursion/factorial.cpp) |
 Recursion / Tower of Hanoi | [recursion/tower_of_hanoi.cpp](recursion/tower_of_hanoi.cpp) |

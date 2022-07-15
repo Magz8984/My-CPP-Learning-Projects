@@ -29,6 +29,7 @@ Understanding Scopes | [scopes/understanding_scopes.cpp](scopes/understanding_sc
 **I/O / Area of circle** | [i_o/areaofcircle.cpp](i_o/areaofcircle.cpp) |
 I/O / Reading Strings | [i_o/reading_strings.cpp](i_o/reading_strings.cpp) |
 Sorting / Bubble Sort | [loops/sort_array.cpp](loops/sort_array.cpp) |
+Sorting / Quick Sort vs Bubble Sort | [loops/quick_sort_vs_bubble_sort.cpp](loops/quick_sort_vs_bubble_sort.cpp) |
 Reverse String | [loops/reverse_string.cpp](loops/reverse_string.cpp) |
 Print Checker Board | [loops/checkerboard.cpp](loops/checkerboard.cpp) |
 Recursion / Print Hello World 10 times | [recursion/print_helloworld_ten_times.cpp](recursion/print_helloworld_ten_times.cpp) |

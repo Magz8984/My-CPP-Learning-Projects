@@ -22,7 +22,8 @@ After each lesson I shall compile all code files in a folder that is given a dis
 -----|------|
 Hello World / Introduction | [helloworld/helloworld.cpp](helloworld/helloworld.cpp) |
 Data Types / GameScore | [datatypes/gamescore.cpp](datatypes/gamescore.cpp) |
-Data Types / Booleans | [datatypes/booleans.cpp](datatypes/booleans.cpp) |
+Data Types / Boolean | [datatypes/booleans.cpp](datatypes/booleans.cpp) |
+Data Types / Map | [datatypes/map.cpp](datatypes/map.cpp) |
 Multiplication Table (Multidimensional Array) | [datatypes/multidimensional_array.cpp](datatypes/multidimensional_array.cpp) |
 Understanding Scopes | [scopes/understanding_scopes.cpp](scopes/understanding_scopes.cpp) |
 **Strings / string.h functions** | [strings/string_functions.cpp](strings/string_functions.cpp) |
@@ -35,6 +36,18 @@ Print Checker Board | [loops/checkerboard.cpp](loops/checkerboard.cpp) |
 Recursion / Print Hello World 10 times | [recursion/print_helloworld_ten_times.cpp](recursion/print_helloworld_ten_times.cpp) |
 Recursion / Factorial | [recursion/factorial.cpp](recursion/factorial.cpp) |
 Recursion / Tower of Hanoi | [recursion/tower_of_hanoi.cpp](recursion/tower_of_hanoi.cpp) |
+
+## Exercises
+
+Code problems solved on Coderbyte, Codility and other platforms (in cpp)
+
+**Exercise** | **Link** |
+-------------|----------|
+Binary tree validator (Medium) | [exercise/binary_tree_validator.cpp](exercise/binary_tree_validator.cpp) |
+Bracket Matcher (Medium) | [exercise/bracket_matcher.cpp](exercise/bracket_matcher.cpp) |
+Username Validation (Easy) | [exercise/username_validation.cpp](exercise/username_validation.cpp) |
+
+
 
 ## License
 
